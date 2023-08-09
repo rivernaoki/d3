@@ -1,0 +1,97 @@
+[
+ {
+   "Autoimmune disorder": "Addison's disease",
+   "Women": 3.5,
+   "Men": 2.7
+ },
+ {
+   "Autoimmune disorder": "Ankylosing spondylitis",
+   "Women": 6.9,
+   "Men": 9.7
+ },
+ {
+   "Autoimmune disorder": "Coeliac disease",
+   "Women": 27,
+   "Men": 14
+ },
+ {
+   "Autoimmune disorder": "Graves' disease",
+   "Women": 74.6,
+   "Men": 23
+ },
+ {
+   "Autoimmune disorder": "Hashimoto's thyroiditis",
+   "Women": 296.6,
+   "Men": 94.9
+ },
+ {
+   "Autoimmune disorder": "Inflammatory bowel disease",
+   "Women": 44.1,
+   "Men": 41.6
+ },
+ {
+   "Autoimmune disorder": "Multiple sclerosis",
+   "Women": 13.7,
+   "Men": 6.2
+ },
+ {
+   "Autoimmune disorder": "Myasthenia gravis",
+   "Women": 2,
+   "Men": 2.9
+ },
+ {
+   "Autoimmune disorder": "Pernicious anaemia",
+   "Women": 49.3,
+   "Men": 35.3
+ },
+ {
+   "Autoimmune disorder": "Polymyalgia rheumatica",
+   "Women": 77.5,
+   "Men": 48.2
+ },
+ {
+   "Autoimmune disorder": "Primary biliary cholangitis",
+   "Women": 5.4,
+   "Men": 1.8
+ },
+ {
+   "Autoimmune disorder": "Psoriasis",
+   "Women": 161.8,
+   "Men": 147.2
+ },
+ {
+   "Autoimmune disorder": "Rheumatoid arthritis",
+   "Women": 94.1,
+   "Men": 49
+ },
+ {
+   "Autoimmune disorder": "Sjögren's syndrome",
+   "Women": 13.8,
+   "Men": 2.3
+ },
+ {
+   "Autoimmune disorder": "Systemic lupus erythematosus",
+   "Women": 14.3,
+   "Men": 3.9
+ },
+ {
+   "Autoimmune disorder": "Systemic sclerosis",
+   "Women": 4.9,
+   "Men": 1.3
+ },
+ {
+   "Autoimmune disorder": "Type 1 diabetes",
+   "Women": 5.6,
+   "Men": 6.2
+ },
+ {
+   "Autoimmune disorder": "Vasculitis",
+   "Women": 43.8,
+   "Men": 34.5
+ },
+ {
+   "Autoimmune disorder": "Vitiligo",
+   "Women": 18.9,
+   "Men": 16.3
+ }
+]
