@@ -1,0 +1,232 @@
+{
+ "name": "bubbleChart",
+ "children": [
+  {
+   "name": "Americas",
+   "children": [
+    {
+     "name": "Andean Latin America",
+     "children": [
+      {"name": "Ecuador", "size": 4},
+      {"name": "Peru", "size": 8}
+     ]
+    },
+    {
+     "name": "Caribbean",
+     "children": [
+      {"name": "Cuba", "size": 15},
+      {"name": "Dominican Republic", "size": 3},
+      {"name": "Haiti", "size": 0.1},
+      {"name": "Puerto Rico", "size": 95}
+     ]
+    },
+    {
+     "name": "Central Latin America",
+     "children": [
+      {"name": "Colombia", "size": 7},
+       {"name": "Costa Rica", "size": 9},
+       {"name": "Guatemala", "size": 3},
+       {"name": "Honduras", "size": 5},
+       {"name": "Mexico", "size": 15},
+       {"name": "Nicaragua", "size": 1},
+       {"name": "Panama", "size": 9},
+       {"name": "Venezuela", "size": 7}
+     ]
+    }, 
+     {
+     "name": "Southern Latin America",
+     "children": [
+      {"name": "Argentina", "size": 38},
+      {"name": "Chile", "size": 16}, 
+      {"name": "Uruguay", "size": 21}
+     ]
+    }, 
+     {
+     "name": "Tropical Latin America",
+     "children": [
+      {"name": "Brazil", "size":19},
+      {"name": "Paraguay", "size": 11}
+     ]
+    }, 
+      {
+     "name": "High-income North America",
+     "children": [
+      {"name": "Canada", "size": 290},
+      {"name": "United States", "size": 288}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Asia",
+   "children": [
+    {
+     "name": "Central Asia",
+     "children": [
+      {"name": "Armenia", "size": 10},
+      {"name": "Georgia", "size": 30},
+      {"name": "Kazakhstan", "size": 11},
+      {"name": "Kyrgyzstan", "size": 6}
+     ]
+    },
+         {
+     "name": "East Asia",
+     "children": [
+      {"name": "China", "size": 3},
+      {"name": "Hong Kong", "size": 1},
+      {"name": "Macao", "size": 6},
+      {"name": "Taiwan", "size": 5}
+     ]
+    },
+         {
+     "name": "High-income Asia Pacific",
+     "children": [
+      {"name": "Japan", "size": 10},
+      {"name": "South Korea", "size": 30},
+      {"name": "Singapore", "size": 11}
+     ]
+    }, {
+    "name": "South Asia",
+     "children": [
+      {"name": "India", "size": 11},
+      {"name": "Pakistan", "size": 5}
+     ]
+    }, {
+      "name": "Southeast Asia",
+     "children": [
+       {"name": "Indonesia", "size": 0.1},
+       {"name": "Laos", "size": 0.1},
+       {"name": "Malaysia", "size": 6},
+       {"name": "Philippines", "size": 29},
+       {"name": "Sri Lanka", "size": 9},
+       {"name": "Thailand", "size": 1}
+     ]
+    }
+   ]
+  },
+      {
+   "name": "Australasia",
+   "children": [
+    {"name": "Australia", "size": 104},
+    {"name": "New Zealand", "size": 72}
+   ]
+  },
+      {
+   "name": "Africa and the Middle East",
+   "children": [
+    {
+     "name": "Eastern Sub-Saharan Africa",
+     "children": [
+      {"name": "Djibouti", "size": 1},
+      {"name": "Ethiopia", "size": 0.03},
+      {"name": "Kenya", "size": 0.5},
+      {"name": "Malawi", "size": 0},
+      {"name": "Sudan", "size": 0.2}, 
+      {"name": "Tanzania", "size": 0.01}, 
+       {"name": "Zambia", "size": 0.1}
+     ]
+    },
+     {
+     "name": "North Africa and Middle East",
+     "children": [
+      {"name": "Algeria", "size": 35},
+      {"name": "Egypt", "size": 59},
+      {"name": "Iran", "size": 101},
+      {"name": "Iran", "size": 12},
+      {"name": "Kuwait", "size": 105},
+      {"name": "Lebanon", "size": 63},
+      {"name": "Libya", "size": 15}, 
+      {"name": "Morocco", "size": 20}, 
+      {"name": "Oman", "size": 16}, 
+      {"name": "Qatar", "size": 98},
+      {"name": "Saudi Arabia", "size": 41},
+      {"name": "Syria", "size": 42},
+      {"name": "Tunisia", "size": 20},
+      {"name": "Turkey", "size": 70},
+      {"name": "United Arab Emirates", "size": 18}, 
+      {"name": "Yemen", "size": 1.4}
+     ]
+    },
+     {
+     "name": "Southern Sub-Saharan Africa",
+     "children": [
+      {"name": "Namibia", "size": 4},
+      {"name": "South Africa", "size": 8}
+     ]
+    }, 
+     {
+     "name": "Western Sub-Saharan Africa",
+     "children": [
+      {"name": "Cameroon", "size": 0.02},
+      {"name": "Ghana", "size": 1}, 
+      {"name": "Niger", "size": 0.01}, 
+      {"name": "Nigeria", "size": 1}, 
+      {"name": "Togo", "size": 0.2}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Europe",
+   "children": [
+    {
+     "name": "Central Europe",
+     "children": [
+      {"name": "Albania", "size": 32},
+      {"name": "Bosnia & Herzegovina", "size": 91},
+      {"name": "Bulgaria", "size": 110},
+      {"name": "Croatia", "size": 144},
+      {"name": "Czech Republic", "size": 197}, 
+       {"name": "Hungary", "size": 90}, 
+       {"name": "Kosovo", "size": 53}, 
+       {"name": "Montenegro", "size": 111}, 
+       {"name": "North Macedonia", "size": 82}, 
+       {"name": "Poland", "size": 134}, 
+       {"name": "Romania", "size": 35}, 
+       {"name": "Serbia", "size": 136}, 
+       {"name": "Slovenia", "size": 152} 
+     ]
+    },
+    {
+     "name": "Eastern Europe",
+     "children": [
+      {"name": "Belarus", "size": 50},
+      {"name": "Estonia", "size": 113},
+      {"name": "Latvia", "size": 107},
+      {"name": "Lithuania", "size": 104},
+      {"name": "Moldova", "size": 34},
+      {"name": "Russian Federation", "size": 55},
+      {"name": "Ukraine", "size": 48}
+     ]
+    },
+    {
+     "name": "Western Europe",
+      "children": [
+       {"name": "Austria", "size": 153},
+       {"name": "Belgium", "size": 104},
+       {"name": "Cyprus", "size": 217},
+       {"name": "Denmark", "size": 301},
+       {"name": "Finland", "size": 219}, 
+       {"name": "France", "size": 155}, 
+       {"name": "Germany", "size": 300}, 
+       {"name": "Greece", "size": 178}, 
+       {"name": "Iceland", "size": 212}, 
+       {"name": "Ireland", "size": 193}, 
+       {"name": "Israel", "size": 151}, 
+       {"name": "Italy", "size": 215}, 
+       {"name": "Malta", "size": 94}, 
+       {"name": "Netherlands", "size": 150}, 
+       {"name": "Norway", "size": 255}, 
+       {"name": "Palestine", "size": 53}, 
+       {"name": "Portugal", "size": 64}, 
+       {"name": "San Marino", "size": 337}, 
+       {"name": "Spain", "size": 123}, 
+       {"name": "Sweden", "size": 215}, 
+       {"name": "Switzerland", "size": 180}, 
+       {"name": "United Kingdom", "size": 199}
+     ]
+    }
+   ]
+  }
+ ]
+}
