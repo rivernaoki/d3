@@ -44,30 +44,6 @@
    ]
   },
   {
-    "name": "Oceania",
-    "children": [
-        {"name": "American Samoa", "size": 37},
-        {"name": "Cook Islands", "size": 37},
-        {"name": "Fiji", "size": 37},
-        {"name": "French Polynesia", "size": 37},
-        {"name": "Guam", "size": 37},
-        {"name": "Kiribati", "size": 37},
-        {"name": "Marshall Islands", "size": 37},
-        {"name": "Micronesia", "size": 37},
-        {"name": "Nauru", "size": 37},
-        {"name": "New Caledonia", "size": 37},
-        {"name": "Niue", "size": 37},
-        {"name": "Northern Mariana Islands", "size": 37}, 
-        {"name": "Palau", "size": 37},
-        {"name": "Papua New Guinea", "size": 37},
-        {"name": "Samoa", "size": 37},
-        {"name": "Solomon Islands", "size": 37},
-        {"name": "Tonga", "size": 37},
-        {"name": "Tuvalu", "size": 37},
-        {"name": "Vanuatu", "size": 37}
-    ]
-  },
-  {
    "name": "Asia",
    "children": [
     {
@@ -108,7 +84,31 @@
     }
    ]
   },
-      {
+  {
+    "name": "Oceania",
+    "children": [
+        {"name": "American Samoa", "size": 37},
+        {"name": "Cook Islands", "size": 37},
+        {"name": "Fiji", "size": 37},
+        {"name": "French Polynesia", "size": 37},
+        {"name": "Guam", "size": 37},
+        {"name": "Kiribati", "size": 37},
+        {"name": "Marshall Islands", "size": 37},
+        {"name": "Micronesia", "size": 37},
+        {"name": "Nauru", "size": 37},
+        {"name": "New Caledonia", "size": 37},
+        {"name": "Niue", "size": 37},
+        {"name": "Northern Mariana Islands", "size": 37}, 
+        {"name": "Palau", "size": 37},
+        {"name": "Papua New Guinea", "size": 37},
+        {"name": "Samoa", "size": 37},
+        {"name": "Solomon Islands", "size": 37},
+        {"name": "Tonga", "size": 37},
+        {"name": "Tuvalu", "size": 37},
+        {"name": "Vanuatu", "size": 37}
+    ]
+  }, 
+  {
    "name": "Africa and the Middle East",
    "children": [
     {
