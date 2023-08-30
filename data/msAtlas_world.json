@@ -120,7 +120,7 @@
       {"name": "Djibouti", "size": 1},
       {"name": "Ethiopia", "size": 0.03},
       {"name": "Kenya", "size": 0.5},
-      {"name": "Malawi", "size": 0},
+      {"name": "  Malawi", "size": 0},
       {"name": "Sudan", "size": 0.2}, 
       {"name": "Tanzania", "size": 0.01}, 
        {"name": "Zambia", "size": 0.1}
