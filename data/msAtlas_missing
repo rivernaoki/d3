@@ -1,0 +1,192 @@
+{
+ "name": "bubbleChart",
+ "children": [
+  {
+   "name": "Americas",
+   "children": [
+    {
+     "name": "Andean Latin America",
+     "children": [
+      {"name": "Bolivia", "size": 37}
+     ]
+    },
+    {
+     "name": "Caribbean",
+     "children": [
+      {"name": "Antigua & Barbuda", "size": 37},
+      {"name": "Aruba", "size": 37},
+      {"name": "The Bahamas", "size": 37},
+      {"name": "Barbados", "size": 37}, 
+      {"name": "Belize", "size": 37}, 
+      {"name": "Cayman Islands", "size": 37}, 
+      {"name": "Curaçao", "size": 37}, 
+      {"name": "Dominica", "size": 37}, 
+      {"name": "Grenada", "size": 37}, 
+      {"name": "Guyana", "size": 37}, 
+      {"name": "Jamaica", "size": 37},
+      {"name": "Saint Kitts & Nevis", "size": 37}, 
+      {"name": "Saint Lucia", "size": 37}, 
+      {"name": "Saint Vincent & the Grenadines", "size": 37}, 
+      {"name": "Sint Maarten (Dutch)", "size": 37}, 
+      {"name": "St Martin (French)", "size": 37}, 
+      {"name": "Suriname", "size": 37}, 
+      {"name": "Trinidad & Tobago", "size": 37}, 
+      {"name": "Turks & Caicos Islands", "size": 37},
+      {"name": "Virgin Islands", "size": 37}
+     ]
+    },
+    {
+     "name": "Central Latin America",
+     "children": [
+      {"name": "El Salvador", "size": 37}
+     ]
+    }
+   ]
+  },
+  {
+    "name": "Oceania",
+    "children": [
+        {"name": "American Samoa", "size": 37},
+        {"name": "Cook Islands", "size": 37},
+        {"name": "Fiji", "size": 37},
+        {"name": "French Polynesia", "size": 37},
+        {"name": "Guam", "size": 37},
+        {"name": "Kiribati", "size": 37},
+        {"name": "Marshall Islands", "size": 37},
+        {"name": "Micronesia", "size": 37},
+        {"name": "Nauru", "size": 37},
+        {"name": "New Caledonia", "size": 37},
+        {"name": "Niue", "size": 37},
+        {"name": "Northern Mariana Islands", "size": 37}, 
+        {"name": "Palau", "size": 37},
+        {"name": "Papua New Guinea", "size": 37},
+        {"name": "Samoa", "size": 37},
+        {"name": "Solomon Islands", "size": 37},
+        {"name": "Tonga", "size": 37},
+        {"name": "Tuvalu", "size": 37},
+        {"name": "Vanuatu", "size": 37}
+    ]
+  },
+  {
+   "name": "Asia",
+   "children": [
+    {
+     "name": "Central Asia",
+     "children": [
+      {"name": "Azerbaijan", "size": 37},
+      {"name": "Mongolia", "size": 37},
+      {"name": "Tajikistan", "size": 37},
+      {"name": "Turkmenistan", "size": 37},
+      {"name": "Uzbekistan", "size": 37}
+     ]
+    },
+         {
+     "name": "East Asia",
+     "children": [
+      {"name": "North Korea", "size": 37}
+     ]
+    },
+      {
+    "name": "South Asia",
+     "children": [
+      {"name": "Bangladesh", "size": 37},
+      {"name": "Bhutan", "size": 37},
+      {"name": "Nepal", "size": 37}
+     ]
+    }, {
+      "name": "Southeast Asia",
+     "children": [
+       {"name": "Brunei", "size": 37},
+       {"name": "Cambodia", "size": 37},
+       {"name": "Maldives", "size": 37},
+       {"name": "Mauritius", "size": 37},
+       {"name": "Myanmar", "size": 37},
+       {"name": "Seychelles", "size": 37},
+       {"name": "Timor-Leste", "size": 37},
+       {"name": "Vietnam", "size": 37}
+     ]
+    }
+   ]
+  },
+      {
+   "name": "Africa and the Middle East",
+   "children": [
+    {
+     "name": "Eastern Sub-Saharan Africa",
+     "children": [
+      {"name": "Burundi", "size": 37},
+      {"name": "Comoros", "size": 37},
+      {"name": "Eritrea", "size": 37},
+      {"name": "Madasgascar", "size": 37},
+      {"name": "Mozambique", "size": 37}, 
+      {"name": "Rwanda", "size": 37}, 
+       {"name": "Somalia", "size": 37},
+       {"name": "South Sudan", "size": 37},
+       {"name": "Uganda", "size": 37}
+     ]
+    },
+     {
+     "name": "North Africa and Middle East",
+     "children": [
+      {"name": "Afghanistan", "size": 37},
+      {"name": "Bahrain", "size": 37},
+      {"name": "Jordan", "size": 37}
+     ]
+    },
+     {
+     "name": "Southern Sub-Saharan Africa",
+     "children": [
+      {"name": "Botswana", "size": 37},
+      {"name": "Eswatini", "size": 37},
+      {"name": "Lesotho", "size": 37},
+      {"name": "Zimbabwe", "size": 37}
+     ]
+    }, 
+     {
+     "name": "Western Sub-Saharan Africa",
+     "children": [
+      {"name": "Benin", "size": 37},
+      {"name": "Burkina Faso", "size": 37}, 
+      {"name": "Cabo Verde", "size": 37}, 
+      {"name": "Chad", "size": 37}, 
+      {"name": "Cote d'Ivoire", "size": 37},
+      {"name": "The Gambia", "size": 37}, 
+      {"name": "Guinea", "size": 37}, 
+      {"name": "Guinea-Bissau", "size": 37}, 
+      {"name": "Liberia", "size": 37},
+      {"name": "Cote d'Ivoire", "size": 37},
+      {"name": "Mali", "size": 37}, 
+      {"name": "Mauritania", "size": 37},
+      {"name": "Cote d'Ivoire", "size": 37},
+      {"name": "Sao Tome & Principe", "size": 37},
+      {"name": "Senegal", "size": 37},
+      {"name": "Sierra Leone", "size": 37}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Europe",
+   "children": [
+    {
+     "name": "Central Europe",
+     "children": [
+      {"name": "Slovakia", "size": 37}
+     ]
+    },
+    {
+     "name": "Western Europe",
+      "children": [
+       {"name": "Andorra", "size": 37},
+       {"name": "Channel Islands", "size": 37},
+       {"name": "Gibraltar", "size": 37},
+       {"name": "Isle of Man", "size": 37},
+       {"name": "Liechtenstein", "size": 37}, 
+       {"name": "Monaca", "size": 37},
+       {"name": "Greenland", "size": 37}
+     ]
+    }
+   ]
+  }
+ ]
+}
